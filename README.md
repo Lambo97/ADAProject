@@ -13,6 +13,9 @@ List the dataset(s) you want to use, and some ideas on how do you expect to get,
 
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
+* Select the csv file that fits with our research questions
+* Make element/item to column
+* Check the flags
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
