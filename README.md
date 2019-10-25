@@ -9,6 +9,16 @@ A list of research questions you would like to address during the project.
 * How does agriculture affects the greenhouse gas emission ? (Which product emits the most greenhouse gas)
 * How does the change in the importation/exportation ratio agriculture influence the Gross Domestic Product ?
 * How to handle the variety of data in this huge dataset
+* How replacing a part of meat (and milk, dairy products) production by the production of vegetal sources of proteins could change the impact of agriculture on environment (GHG emissions, land use, water use,...)?
+* How much are the different countries self sufficient in terms of agricultural products ? And how does that impact the food security, GDP, economic growth, population growth, population alimentation,etc?
+* How does the country agricultural products influences the alimentation of the people in this country?
+* How does the macro-indicators (GDP, population,etc) influences the way people eat?
+* Studying the agricultural products exchanges and the dependancy of country to other countries for agricultural products.
+* How does the use of machinery, fertilizer and pesticides relate to yields per area unit?
+* How does the investments relate to yields per area unit?
+* How does the research influences the yields per area unit?
+* How does the government inference influences the prices of agricultural products?
+* How does the government inference onfluences the type of agricultural products in a country?
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
