@@ -20,6 +20,10 @@ A list of research questions you would like to address during the project.
 * How does the government inference influences the prices of agricultural products?
 * How does the government inference onfluences the type of agricultural products in a country?
 
+* How can we classify agricultural products according to their impact on environment? Which parameters are significant?
+ * WHat if we take into accoun geographical parameter? Does the transport of those products change the ranking?
+* What is the link between import/export and a country security of supply?
+
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
