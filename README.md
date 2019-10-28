@@ -21,8 +21,6 @@ From the UN global food and agriculture statistics, we will use :
  * All the datasets beginning with Emissions
  * All the datasets beginning with Environment
  * The 2 "CommodityBalances" files
- * "Food_Aid_Shipments_WFP_E_All_Data_(Normalized)"
- * "Food_Security_Data_E_All_Data_(Normalized)"
  * The 2 "FoodSupply" files
  * "Indicators_from_Household_Surveys_E_All_Data_(Normalized)"
  * All the datasets beginning with Inputs
@@ -30,7 +28,6 @@ From the UN global food and agriculture statistics, we will use :
  * "Macro-Statistics_Key_Indicators_E_All_Data_(Normalized)"
  * "Population_E_All_Data_(Norm)"
  * All the datasets beginning with Production
- * The 3 "Trade" files
  
 
 # A list of internal milestones up until project milestone 2
