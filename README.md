@@ -23,6 +23,22 @@ A list of research questions you would like to address during the project.
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
 
+From the UN global food and agriculture statistics, we will use :
+ * All the datasets beginning with Emissions
+ * All the datasets beginning with Environment
+ * The 2 "CommodityBalances" files
+ * "Food_Aid_Shipments_WFP_E_All_Data_(Normalized)"
+ * "Food_Security_Data_E_All_Data_(Normalized)"
+ * The 2 "FoodSupply" files
+ * "Indicators_from_Household_Surveys_E_All_Data_(Normalized)"
+ * All the datasets beginning with Inputs
+ * "Investment_Machinery_E_All_Data"
+ * "Macro-Statistics_Key_Indicators_E_All_Data_(Normalized)"
+ * "Population_E_All_Data_(Norm)"
+ * All the datasets beginning with Production
+ * The 3 "Trade" files
+ 
+
 # A list of internal milestones up until project milestone 2
 Add here a sketch of your planning for the next project milestone.
 
