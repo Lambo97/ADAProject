@@ -15,7 +15,7 @@ A list of research questions you would like to address during the project.
 * How can countries transform their agriculture to be as efficient as possible
 
 # Dataset
-List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
+Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see which relevant link we can make between different datasets to go further into analysis. This is why we need more classical datasets as the commodity balances, food supply, macro statistics, etc. 
 
 From the UN global food and agriculture statistics, we will use :
  * All the datasets beginning with Emissions
@@ -24,7 +24,6 @@ From the UN global food and agriculture statistics, we will use :
  * The 2 "FoodSupply" files
  * "Indicators_from_Household_Surveys_E_All_Data_(Normalized)"
  * All the datasets beginning with Inputs
- * "Investment_Machinery_E_All_Data"
  * "Macro-Statistics_Key_Indicators_E_All_Data_(Normalized)"
  * "Population_E_All_Data_(Norm)"
  * All the datasets beginning with Production
