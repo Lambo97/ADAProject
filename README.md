@@ -11,14 +11,8 @@ A list of research questions you would like to address during the project.
 * How can we classify agricultural products according to their impact on environment? Which parameters are significant?
 * What if we take into account geographical parameter? Does the transport of those products change the ranking?
 * How replacing a part of meat (and milk, dairy products) production by the production of vegetal sources of proteins could change the impact of agriculture on environment (GHG emissions, land use, water use,...)?
-
-* How much are the different countries self sufficient in terms of agricultural products ? And how does that impact the food security, GDP, economic growth, population growth, population alimentation,etc?
-* What is the link between import/export and a country security of supply?
-* Studying the agricultural products exchanges and the dependancy of country to other countries for agricultural products.
-
-* How does the country agricultural products influences the alimentation of the people in this country?
-
-* How does the use of machinery, fertilizer and pesticides relate to yields per area unit?
+* How does the consumtion of certain agricultural products influences the health of the people in this country?
+* How can countries transform their agriculture to be as efficient as possible
 
 # Dataset
 List the dataset(s) you want to use, and some ideas on how do you expect to get, manage, process and enrich it/them. Show us you've read the docs and some examples, and you've a clear idea on what to expect. Discuss data size and format if relevant.
