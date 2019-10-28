@@ -30,7 +30,6 @@ From the UN global food and agriculture statistics, we will use :
  
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
 
 * Data acquisition :
   * Select the csv file that fits with our research questions
@@ -41,8 +40,11 @@ Add here a sketch of your planning for the next project milestone.
   * Outliers detection
   
 * First analysis
-  * Making a first simple analysis : link between agricultural product and GHG emissions.
-  * Come back on research question and precise them according to what we have done so far
+  * Classification of agricultural products according GHG emissions.
+  * Extend the classification to other environmental parmaeters (land use,etc.)
+  
+
+
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
