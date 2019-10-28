@@ -42,8 +42,8 @@ Add here a sketch of your planning for the next project milestone.
   * Outliers detection
   
 * First analysis
- * Making a first simple analysis : link between agricultural product and GHG emissions.
- * Come back on research question and precise them according to what we have done so far
+  * Making a first simple analysis : link between agricultural product and GHG emissions.
+  * Come back on research question and precise them according to what we have done so far
 
 # Questions for TAa
 Add here some questions you have for us, in general or project-specific.
