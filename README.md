@@ -40,8 +40,8 @@ From the UN global food and agriculture statistics, we will use :
   * Outliers detection and removal
   
 * First analysis (18/11):
-  * Quantify use of agricultural products per country/regio
-  * Classification of agricultural products according to GHG emissions.
+  * Quantify use of agricultural products per country/region
+  * Classification of agricultural products according to GHG emissions
   * Extend the classification to other environmental parameters (land use,etc.)
   * Quantify population health by consumptions of different products
 
