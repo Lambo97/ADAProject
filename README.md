@@ -11,7 +11,7 @@ A list of research questions you would like to address during the project.
 * How can we classify agricultural products according to their impact on environment? Which parameters are significant?
 * How does the consumption of certain agricultural products influences the health of the people in this country? 
 * How replacing a part of meat (and milk, dairy products) production by the production of vegetal sources of proteins could change the impact of agriculture on environment (GHG emissions, land use, water use,...)?
-* How can countries transform their agriculture to be as efficient as possible, in terms of environmental impact and 'healthiness'.
+* How can countries transform their agriculture to be as efficient as possible, in terms of environmental impact and 'healthiness'. TODO: define healthiness
 
 ## Dataset
 Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see which relevant link we can make between different datasets to go further into analysis. This is why we need more classical datasets as the commodity balances, food supply, macro statistics, etc.  
