@@ -55,3 +55,14 @@ From the UN global food and agriculture statistics, we will use :
   
 
 ## Questions for TAa
+
+## Structure of the project
+.
++-- README.md
++-- .gitignore
++-- data/
+|   +-- CSV file use for the project
++-- generated/
+|   +-- Data generated from our analysis
++-- src/
+|   +-- Source code files
