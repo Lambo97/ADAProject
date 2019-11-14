@@ -61,10 +61,10 @@ From the UN global food and agriculture statistics, we will use :
 .
 |-- README.md
 |-- .gitignore
-+-- data/
-|   +-- CSV file use for the project
-+-- generated/
-|   +-- Data generated from our analysis
-+-- src/
-|   +-- Source code files
+|-- data/
+|   |-- CSV file use for the project
+|-- generated/
+|   |-- Data generated from our analysis
+|-- src/
+|   |-- Source code files
 ```
