@@ -24,7 +24,8 @@ From the UN global food and agriculture statistics, we will use :
  * Detailed Trade Matrix
  
 
-## A list of internal milestones up until project milestone 2
+## A list of internal milestones
+### For milstone 2
 
 * Data acquisition (03/11):
   * Set up Git and the project structure
@@ -48,6 +49,25 @@ From the UN global food and agriculture statistics, we will use :
   * Debug and clean up code
   * Document all code
   
+### For the final submission
+
+* Add data of transport (1/12):
+  * Find a dataset of emission for transport between countries
+  * Incorporate this data in ours
+  
+* Create visulalisation (08/12):
+  * Create interactive maps for the direct emissions of each country
+  * Create map for the quantity of imported/exported product to/from Belgium and Switzerland
+  * Show the evolution of emission with and without correction
+  
+* Create the website for the datastory (15/12):
+  * Set up the website
+  * Write all the text
+  * Add the visualisations
+  
+* Last review (20/12):
+  * Finalize the data story
+  * Clean the notebook
 
 ## Structure of the project
 ```bash
