@@ -1,4 +1,4 @@
-# Searching the most-efficient source of food
+# How much emission are you REALLY reponsible for
 
 ## Abstract
 
@@ -7,34 +7,30 @@ Last years, human population has been growing exponentially. Projections of popu
 ## Research questions
 A list of research questions you would like to address during the project.
 
-* How does agriculture affects the greenhouse gas emission ? (Which product emits the most greenhouse gas)
-* How can we classify agricultural products according to their impact on environment? Which parameters are significant?
-* How does the consumption of certain agricultural products influences the health of the people in this country? 
-* How replacing a part of meat (and milk, dairy products) production by the production of vegetal sources of proteins could change the impact of agriculture on environment (GHG emissions, land use, water use,...)?
-* How can countries transform their agriculture to be as efficient as possible, in terms of environmental impact and 'healthiness'. TODO: define healthiness
+* What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
+* Dividing the set of product between animal products and vegetable products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
+* Focusing on Belgium and switzerland, how does the quantity of imported and exported products have evolved since 2000 ?
+* How does their direct emission of CO2 eq have evolved ?
+* How can we take into account the emission due to imported product for these two countries ?
+* Is it possible to also take the emission to transport all the product for the production country to the importator country ?
+* What is the evolution of the real quantity of greenhousegas emitted by the two countries ?
 
 ## Dataset
-Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see which relevant link we can make between different datasets to go further into analysis. This is why we need more classical datasets as the commodity balances, food supply, macro statistics, etc.  
+Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see how can we incorporate the trading of product to correct the emission of greenhouse gas.
 
 From the UN global food and agriculture statistics, we will use :
- * All the datasets beginning with Emissions
- * All the datasets beginning with Environment
- * The 2 "CommodityBalances" files
- * The 2 "FoodSupply" files
- * "Indicators_from_Household_Surveys_E_All_Data_(Normalized)"
- * All the datasets beginning with Inputs
- * "Macro-Statistics_Key_Indicators_E_All_Data_(Normalized)"
- * "Population_E_All_Data_(Norm)"
- * All the datasets beginning with Production
+ * Emission by Sector
+ * Emissions_Agriculture_Agriculture_total
+ * Detailed Trade Matrix
  
 
 ## A list of internal milestones up until project milestone 2
 
 * Data acquisition (03/11):
-  * Select the csv files that fits with our research questions
   * Set up Git and the project structure
   
 * Data cleaning (11/11):
+  * Downscale the trade matrix dataset to keep only data from Belgium/Switzerland
   * Put CSV files in Dataframes and check for missing values, inconsistensies, etc.
   * Check if entities (crops, countries), are linked by unique ID in the different datasets
   * Outliers detection and removal
@@ -48,13 +44,10 @@ From the UN global food and agriculture statistics, we will use :
 * First results (24/10):
   * Quantify efficiency of agricultural products by their impact on environment vs nutrititive value.
 
-
 * Last review and submission (25/11):
   * Debug and clean up code
   * Document all code
   
-
-## Questions for TAa
 
 ## Structure of the project
 ```bash
