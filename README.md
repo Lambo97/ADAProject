@@ -10,7 +10,7 @@ A list of research questions you would like to address during the project.
 * What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
 * Dividing the set of product between animal products and vegetal products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
 * Focusing on Belgium and Switzerland, how does the quantity of imported and exported products have evolved since 2000 ?
-* How does their direct emission of CO_{2,eq} have evolved ?
+* How does their direct emission of $CO_{2,eq}$ have evolved ?
 * How can we take into account the emission due to imported product for these two countries ?
 * Is it possible to also integrate into the emissions of the country the ones related to the transport of all the products they import ? How does that affect their emissions ?
 * What is the evolution of the real quantity of greenhouse gas emitted by the two countries ?
@@ -27,18 +27,17 @@ From the UN global food and agriculture statistics, we will use :
 
 ## A list of internal milestones
 
-Our final goal is to have a data story that has the following plan :
+Our final goal is to have a data story that has the following chapters :
 * Importance of agriculture in global greenhouse gases emissions and its evolution over the years.
-* Importance of vegetal and animal products into aggriculture emissions. 
-* Emissions of aggriculture in each country
-* Deaper study on Belgium and Switzerland :
+* Importance of vegetal and animal products into agriculture emissions. 
+* Emissions of agriculture in each country
+* Deeper study on Belgium and Switzerland :
   * Emissions of Belgium and Switzerland
   * Adding the impact of the trading of food goods
   * Adding the impact of the transport of traded food
   * Real emissions of Belgium and Switzerland
 * Real emissions of other Regions/ Countries
-* Interactive map of real emissions per country
-  
+* Interactive map of real emissions per country  
 
 ### For milstone 2
 
@@ -70,31 +69,37 @@ Our final goal is to have a data story that has the following plan :
   * Find a dataset of emission for transport between countries
   * Incorporate this data in ours
   * Study it's influence on emissions for food products of Belgium and Switzerland
-  
+
+
 * Get a better estimate of how much CO2 the production caused (5/12)
   * Currently 1kg of Milk, and 1kg of Meat are treated equally (they are simply added together)
   * Find a better way of combining these subcategories, perhaps buy researching how much CO2 each
     subcategory emits and using a weighted sum
-  
+  * Have a look at the amount of vegetal products that are actually used for cattle breeding.
+
+
 * Create visulalisation (08/12):
   * Create interactive maps for the direct emissions of each country
   * Create map for the quantity of imported/exported product to/from Belgium and Switzerland
   * Show the evolution of emission with and without correction
-  
+
+
 * Generalize the approach for other countries (11/12)
   * Use the same approach as for Belgium and Switzerland but in a more systematic ways on other countries/regions
   * Use that approach to compare countries/regions with our base case
   * Produce a map containing the REAL emissions of each country for food
-  
+
+
 * Create the website for the datastory (15/12):
   * Set up the website
   * Write all the text
   * Add the visualisations
-  
+
+
 * Last review (20/12):
   * Finalize the data story
   * Clean the notebook
-
+  
 ## Structure of the project
 ```bash
 .
