@@ -10,7 +10,7 @@ A list of research questions you would like to address during the project.
 * What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
 * Dividing the set of product between animal products and vegetal products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
 * Focusing on Belgium and Switzerland, how does the quantity of imported and exported products have evolved since 2000 ?
-* How does their direct emission of $CO_{2,eq}$ have evolved ?
+* How does their direct emission of CO2(eq) have evolved ?
 * How can we take into account the emission due to imported product for these two countries ?
 * Is it possible to also integrate into the emissions of the country the ones related to the transport of all the products they import ? How does that affect their emissions ?
 * What is the evolution of the real quantity of greenhouse gas emitted by the two countries ?
