@@ -2,18 +2,18 @@
 
 ## Abstract
 
-Last years, human population has been growing exponentially. Projections of population growth established in 2017 predict that the human population is likely to keep growing until 2100, [https://population.un.org/wpp/Publications/] reaching an estimated 8.6 billion in 2030, 9.8 billion in 2050 and 11.2 billion by 2100. While the earth gets more crowded, we have to ask the question how we will feed all those people. The Global Food & Agriculture Statistics dataset, provided by the UN, grants over 3 million time-series and cross sectional data relating to food and agriculture. In our project, we will search for the most efficient ways of providing food to humans, in terms of health, nutritive value, environmental impact, area use,... Our story will start with looking at the global factors and current situation. Later we will zoom in on the United States, and look how they could transform their food industry to be as efficient as possible.
+Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. Projections of population growth established in 2017 predict that the human population is likely to keep growing until 2100, [https://population.un.org/wpp/Publications/] reaching an estimated 8.6 billion in 2030, 9.8 billion in 2050 and 11.2 billion by 2100. While the earth gets more crowded, we have to ask the question how we will feed all those people sustainably. The Global Food & Agriculture Statistics dataset, provided by the UN, grants over 3 million time-series and cross sectional data relating to food and agriculture. In our project, we will ask the question of the impact of our agricultural system on climate change. Our story will start with looking at the global factors and current situation. Later we will zoom in on Belgium and Switzerland, and look their emissions linked with aggriculture. The modern food system is also marked with a lot of trading of goods. The study will then enhance how this trading of food impacts the REAL emissions of those two countries.
 
 ## Research questions
 A list of research questions you would like to address during the project.
 
 * What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
-* Dividing the set of product between animal products and vegetable products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
-* Focusing on Belgium and switzerland, how does the quantity of imported and exported products have evolved since 2000 ?
-* How does their direct emission of CO2 eq have evolved ?
+* Dividing the set of product between animal products and vegetal products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
+* Focusing on Belgium and Switzerland, how does the quantity of imported and exported products have evolved since 2000 ?
+* How does their direct emission of CO_{2,eq} have evolved ?
 * How can we take into account the emission due to imported product for these two countries ?
-* Is it possible to also take the emission to transport all the product for the production country to the importator country ?
-* What is the evolution of the real quantity of greenhousegas emitted by the two countries ?
+* Is it possible to also integrate into the emissions of the country the ones related to the transport of all the products they import ? How does that affect their emissions ?
+* What is the evolution of the real quantity of greenhouse gas emitted by the two countries ?
 
 ## Dataset
 Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see how can we incorporate the trading of product to correct the emission of greenhouse gas.
@@ -26,6 +26,20 @@ From the UN global food and agriculture statistics, we will use :
  
 
 ## A list of internal milestones
+
+Our final goal is to have a data story that has the following plan :
+* Importance of agriculture in global greenhouse gases emissions and its evolution over the years.
+* Importance of vegetal and animal products into aggriculture emissions. 
+* Emissions of aggriculture in each country
+* Deaper study on Belgium and Switzerland :
+  * Emissions of Belgium and Switzerland
+  * Adding the impact of the trading of food goods
+  * Adding the impact of the transport of traded food
+  * Real emissions of Belgium and Switzerland
+* Real emissions of other Regions/ Countries
+* Interactive map of real emissions per country
+  
+
 ### For milstone 2
 
 * Data acquisition (03/11):
@@ -55,11 +69,17 @@ From the UN global food and agriculture statistics, we will use :
 * Add data of transport (1/12):
   * Find a dataset of emission for transport between countries
   * Incorporate this data in ours
+  * Study it's influence on emissions for food products of Belgium and Switzerland
   
 * Create visulalisation (08/12):
   * Create interactive maps for the direct emissions of each country
   * Create map for the quantity of imported/exported product to/from Belgium and Switzerland
   * Show the evolution of emission with and without correction
+  
+* Generalize the approach for other countries (11/12)
+  * Use the same approach as for Belgium and Switzerland but in a more systematic ways on other countries/regions
+  * Use that approach to compare countries/regions with our base case
+  * Produce a map containing the REAL emissions of each country for food
   
 * Create the website for the datastory (15/12):
   * Set up the website
