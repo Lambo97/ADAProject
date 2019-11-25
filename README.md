@@ -71,6 +71,11 @@ Our final goal is to have a data story that has the following plan :
   * Incorporate this data in ours
   * Study it's influence on emissions for food products of Belgium and Switzerland
   
+* Get a better estimate of how much CO2 the production caused (5/12)
+  * Currently 1kg of Milk, and 1kg of Meat are treated equally (they are simply added together)
+  * Find a better way of combining these subcategories, perhaps buy researching how much CO2 each
+    subcategory emits and using a weighted sum
+  
 * Create visulalisation (08/12):
   * Create interactive maps for the direct emissions of each country
   * Create map for the quantity of imported/exported product to/from Belgium and Switzerland
