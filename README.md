@@ -55,11 +55,17 @@ From the UN global food and agriculture statistics, we will use :
 * Add data of transport (1/12):
   * Find a dataset of emission for transport between countries
   * Incorporate this data in ours
+  * Study it's influence on emissions for food products of Belgium and Switzerland
   
 * Create visulalisation (08/12):
   * Create interactive maps for the direct emissions of each country
   * Create map for the quantity of imported/exported product to/from Belgium and Switzerland
   * Show the evolution of emission with and without correction
+  
+* Generalize the approach for other countries (11/12)
+  * Use the same approach as for Belgium and Switzerland but in a more systematic ways on other countries/regions
+  * Use that approach to compare countries/regions with our base case
+  * Produce a map containing the REAL emissions of each country for food
   
 * Create the website for the datastory (15/12):
   * Set up the website
