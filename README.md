@@ -13,7 +13,7 @@ A list of research questions you would like to address during the project.
 * How does their direct emission of CO_{2,eq} have evolved ?
 * How can we take into account the emission due to imported product for these two countries ?
 * Is it possible to also integrate into the emissions of the country the ones related to the transport of all the products they import ? How does that affect their emissions ?
-* What is the evolution of the real quantity of greenhousegas emitted by the two countries ?
+* What is the evolution of the real quantity of greenhouse gas emitted by the two countries ?
 
 ## Dataset
 Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see how can we incorporate the trading of product to correct the emission of greenhouse gas.
@@ -26,6 +26,20 @@ From the UN global food and agriculture statistics, we will use :
  
 
 ## A list of internal milestones
+
+Our final goal is to have a data story that has the following plan :
+* Importance of agriculture in global greenhouse gases emissions and its evolution over the years.
+* Importance of vegetal and animal products into aggriculture emissions. 
+* Emissions of aggriculture in each country
+* Deaper study on Belgium and Switzerland :
+  * Emissions of Belgium and Switzerland
+  * Adding the impact of the trading of food goods
+  * Adding the impact of the transport of traded food
+  * Real emissions of Belgium and Switzerland
+* Real emissions of other Regions/ Countries
+* Interactive map of real emissions per country
+  
+
 ### For milstone 2
 
 * Data acquisition (03/11):
