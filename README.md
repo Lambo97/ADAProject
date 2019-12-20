@@ -4,6 +4,10 @@
 
 Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. Projections of population growth established in 2017 predict that the human population is likely to keep growing until 2100, [https://population.un.org/wpp/Publications/] reaching an estimated 8.6 billion in 2030, 9.8 billion in 2050 and 11.2 billion by 2100. While the earth gets more crowded, we have to ask the question how we will feed all those people sustainably. The Global Food & Agriculture Statistics dataset, provided by the UN, grants over 3 million time-series and cross sectional data relating to food and agriculture. In our project, we ask the question of the impact of our agricultural system on climate change. Our story will start with looking at the global factors and current situation. Later we zoom in on Belgium and Switzerland, and look at their emissions linked with aggriculture. The modern food system is also marked by a lot of trading of goods. The study will then enhance how this trading of food impacts the REAL emissions of those two countries.
 
+## Data Story
+
+Our data story can be accessed via https://reddevilsada.github.io/data_story/
+
 ## Research questions
 
 * What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
