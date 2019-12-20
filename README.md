@@ -2,10 +2,13 @@
 
 ## Abstract
 
-Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. Projections of population growth established in 2017 predict that the human population is likely to keep growing until 2100, [https://population.un.org/wpp/Publications/] reaching an estimated 8.6 billion in 2030, 9.8 billion in 2050 and 11.2 billion by 2100. While the earth gets more crowded, we have to ask the question how we will feed all those people sustainably. The Global Food & Agriculture Statistics dataset, provided by the UN, grants over 3 million time-series and cross sectional data relating to food and agriculture. In our project, we will ask the question of the impact of our agricultural system on climate change. Our story will start with looking at the global factors and current situation. Later we will zoom in on Belgium and Switzerland, and look their emissions linked with aggriculture. The modern food system is also marked with a lot of trading of goods. The study will then enhance how this trading of food impacts the REAL emissions of those two countries.
+Nowadays, climate change is a global issue and there is a urgent need of more sustainable ways of living. On the other hand, last years, human population has been growing exponentially. Projections of population growth established in 2017 predict that the human population is likely to keep growing until 2100, [https://population.un.org/wpp/Publications/] reaching an estimated 8.6 billion in 2030, 9.8 billion in 2050 and 11.2 billion by 2100. While the earth gets more crowded, we have to ask the question how we will feed all those people sustainably. The Global Food & Agriculture Statistics dataset, provided by the UN, grants over 3 million time-series and cross sectional data relating to food and agriculture. In our project, we ask the question of the impact of our agricultural system on climate change. Our story will start with looking at the global factors and current situation. Later we zoom in on Belgium and Switzerland, and look at their emissions linked with aggriculture. The modern food system is also marked by a lot of trading of goods. The study will then enhance how this trading of food impacts the REAL emissions of those two countries.
+
+## Data Story
+
+Our data story can be accessed via https://reddevilsada.github.io/data_story/
 
 ## Research questions
-A list of research questions you would like to address during the project.
 
 * What is the percentage of emission of greenhouse gas due to agriculture ? And how this percentage has evolved in the last years ?
 * Dividing the set of product between animal products and vegetal products, which group is responsible for the most part of the emissions ? How these emission are distributed around the globe ?
@@ -13,16 +16,16 @@ A list of research questions you would like to address during the project.
 * How does their direct emission of CO2(eq) have evolved ?
 * How can we take into account the emission due to imported product for these two countries ?
 * Is it possible to also integrate into the emissions of the country the ones related to the transport of all the products they import ? How does that affect their emissions ?
-* What is the evolution of the real quantity of greenhouse gas emitted by the two countries ?
+* What is the evolution of the real quantity of greenhouse gas emitted by european countries ?
 
 ## Dataset
-Our first focus point is emissions and environment impact. For that reason we will in a first time mainly focus on those datasets. The idea is also to see how can we incorporate the trading of product to correct the emission of greenhouse gas.
-
-From the UN global food and agriculture statistics, we will use :
+Our first focus point is emissions and environment impact. For this we use data from the UN global food and agriculture statistics
  * Emission by Sector
  * Emissions_Agriculture_Agriculture_total
  * Detailed Trade Matrix
  * Population
+ 
+ Next, to account for transportation of goods, we use the 'EXTRA EU trade since 1999 by mode of transport (NSTR) (DS-022469)' dataset provided by EuroStat (https://ec.europa.eu/eurostat/web/international-trade-in-goods/data/database)
  
 
 ## A list of internal milestones
