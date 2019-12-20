@@ -129,6 +129,6 @@ Our final goal is to have a data story that has the following chapters :
   * Create most of the maps and plots
 * Paolo :
   * Studying the emissions of transport and finding data for transport modes
-  * Try to find data for energy use in aggriculture
+  * Try to find data for energy use in agriculture
   * General frame of the data story
   * Participating to writint the data story
