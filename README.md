@@ -115,3 +115,12 @@ Our final goal is to have a data story that has the following chapters :
 |-- src/
 |   |-- Source code files
 ```
+
+## Contributions
+* Lukas : 
+* Thomas : 
+* Maxime : 
+ * Study of the emission by country
+ * Merging all the results and computing correction
+ * Create most of the maps and plots
+*
