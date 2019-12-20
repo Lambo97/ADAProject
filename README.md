@@ -118,6 +118,10 @@ Our final goal is to have a data story that has the following chapters :
 
 ## Contributions
 * Lukas : 
+  * Global overview of agriculture emission
+  * Writing data story
+  * Calculating emission due to transport 
+
 * Thomas : 
 * Maxime : 
   * Study of the emission by country
